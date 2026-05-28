@@ -97,10 +97,6 @@ namespace WpfApp3
 
             
 
-
-
-        
-
         private void SendButton_Click(object sender, RoutedEventArgs e)
         {
             string userMessage = UserInput.Text;
